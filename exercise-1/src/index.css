@@ -109,3 +109,19 @@ body {
 .warning {
   color: var(--secondary-color);
 }
+
+/* Statistics card */
+.statistics-table {
+  border-radius: 15px;
+  width: 250px;
+  margin-top: 15px;
+  background-color: #f1ecec;
+}
+
+.statistics-table th {
+  color: black;
+}
+
+.statistics-table td {
+  color: black;
+}
